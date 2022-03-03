@@ -1,0 +1,38 @@
+.ant-layout-header {
+  height: 80px;
+  background-color: rgb(1, 2, 15);
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+.logo {
+  width: 30px;
+  cursor: pointer;
+}
+h3 {
+  margin: auto;
+  text-align: center;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.ant-layout-sider {
+  height: 42rem;
+  /* background-color: rgb(4, 3, 27); */
+}
+.label {
+  display: flex;
+  /* padding: 20px 5px 5px 20px; */
+  /* color: white; */
+  /* background-color: rgb(6, 75, 75); */
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+.icons {
+  margin-top: 13px;
+  margin-right: 5px;
+}
+/* .ant-layout-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
